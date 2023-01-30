@@ -1,4 +1,4 @@
-# Data Mining Technique (via Jupyter Notebook)
+# Data Mining Techniques (via Jupyter Notebook)
 
 Top 4 data mining technique in MS Excel
 1 - Exploratory data analysis (EDA)
